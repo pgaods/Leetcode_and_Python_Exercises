@@ -1,2 +1,3 @@
 # Leetcode
-Leetcode Exercises in Python
+
+Leetcode Exercises in Python. Solutions are tentative.

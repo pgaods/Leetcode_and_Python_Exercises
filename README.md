@@ -1,3 +1,3 @@
-# Leetcode
+# Leetcode and Python Exercises
 
-Leetcode Exercises in Python. Solutions are tentative.
+Leetcode and Other Python Exercises. Solutions are tentative.

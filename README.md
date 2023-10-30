@@ -1,3 +1,3 @@
 # Leetcode and Python Exercises
 
-Leetcode and Other Python Exercises. Solutions are tentative.
+This repo contains solutions to Leetcode and various Python foundational exercises. Solutions are tentative.
